@@ -1,0 +1,30 @@
+{
+  "name": "九州母女慢活手帳旅遊行程",
+  "short_name": "九州母女旅",
+  "description": "和媽媽的溫馨九州日本慢旅手帳行程與記帳 App 👵🌸👧",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFFDF9",
+  "theme_color": "#FFFDF9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
